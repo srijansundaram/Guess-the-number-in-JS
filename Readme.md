@@ -31,4 +31,4 @@ A simple web-based "Guess the Number" game built with HTML, CSS, and JavaScript.
 
 ## License
 
-This project is for educational
+This project is for educational purpose.
